@@ -3,7 +3,7 @@ import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QLabel, QComboBox, QLineEdit, QFileDialog, QMessageBox
 from PyQt5.QtGui import QIntValidator
 
-"""File Creator test app for my infr"""
+"""File Creator test app_gui for my infr"""
 
 
 class FileCreator(QWidget):
